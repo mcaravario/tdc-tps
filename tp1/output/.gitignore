@@ -1,0 +1,2 @@
+# No queremos commitear archivos pcap
+*.pcap

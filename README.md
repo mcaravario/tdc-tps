@@ -8,4 +8,4 @@ Integrantes:
 | Pedro Rodriguez   | 197/12  |
 | Martin Caravario  | 470/12  |
 | Leandro Ezequiel Barrios |   |
-| Gonzalo Benegas |   |
+| Gonzalo Benegas | 958/12  |
