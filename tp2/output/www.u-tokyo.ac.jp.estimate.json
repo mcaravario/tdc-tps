@@ -1,0 +1,112 @@
+{
+    "10": {
+        "0.8": {
+            "p": 0.0, 
+            "estimated_rtt": 392.274013696, 
+            "mathis_throughput": null
+        }, 
+        "0.2": {
+            "p": 0.0, 
+            "estimated_rtt": 381.588020224, 
+            "mathis_throughput": null
+        }, 
+        "0.4": {
+            "p": 0.0, 
+            "estimated_rtt": 384.04128716800005, 
+            "mathis_throughput": null
+        }, 
+        "0.6": {
+            "p": 0.0, 
+            "estimated_rtt": 386.13787955199996, 
+            "mathis_throughput": null
+        }
+    }, 
+    "100": {
+        "0.8": {
+            "p": 0.010000000000000009, 
+            "estimated_rtt": 392.2299798132051, 
+            "mathis_throughput": 37.2230598154508
+        }, 
+        "0.2": {
+            "p": 0.010000000000000009, 
+            "estimated_rtt": 393.46685841664583, 
+            "mathis_throughput": 37.10604765736054
+        }, 
+        "0.4": {
+            "p": 0.010000000000000009, 
+            "estimated_rtt": 392.3259413060451, 
+            "mathis_throughput": 37.21395519092337
+        }, 
+        "0.6": {
+            "p": 0.010000000000000009, 
+            "estimated_rtt": 391.8594528952363, 
+            "mathis_throughput": 37.258256479787676
+        }
+    }, 
+    "50": {
+        "0.8": {
+            "p": 0.0, 
+            "estimated_rtt": 408.3188611633488, 
+            "mathis_throughput": null
+        }, 
+        "0.2": {
+            "p": 0.0, 
+            "estimated_rtt": 434.094168324899, 
+            "mathis_throughput": null
+        }, 
+        "0.4": {
+            "p": 0.0, 
+            "estimated_rtt": 423.25094539605107, 
+            "mathis_throughput": null
+        }, 
+        "0.6": {
+            "p": 0.0, 
+            "estimated_rtt": 414.9921790750912, 
+            "mathis_throughput": null
+        }
+    }, 
+    "500": {
+        "0.8": {
+            "p": 0.0040000000000000036, 
+            "estimated_rtt": 395.00205706926243, 
+            "mathis_throughput": 58.4417891149902
+        }, 
+        "0.2": {
+            "p": 0.0040000000000000036, 
+            "estimated_rtt": 389.31605217249984, 
+            "mathis_throughput": 59.295338043242886
+        }, 
+        "0.4": {
+            "p": 0.0040000000000000036, 
+            "estimated_rtt": 391.64698371618715, 
+            "mathis_throughput": 58.94243509853706
+        }, 
+        "0.6": {
+            "p": 0.0040000000000000036, 
+            "estimated_rtt": 393.9293333545708, 
+            "mathis_throughput": 58.60093413874051
+        }
+    }, 
+    "1000": {
+        "0.8": {
+            "p": 0.006000000000000005, 
+            "estimated_rtt": 394.8678089543684, 
+            "mathis_throughput": 47.73374411414966
+        }, 
+        "0.2": {
+            "p": 0.006000000000000005, 
+            "estimated_rtt": 399.6329583242327, 
+            "mathis_throughput": 47.16457579119503
+        }, 
+        "0.4": {
+            "p": 0.006000000000000005, 
+            "estimated_rtt": 397.2365960994581, 
+            "mathis_throughput": 47.449099948544415
+        }, 
+        "0.6": {
+            "p": 0.006000000000000005, 
+            "estimated_rtt": 395.487241384048, 
+            "mathis_throughput": 47.65898107251308
+        }
+    }
+}

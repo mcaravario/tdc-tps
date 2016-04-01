@@ -1,0 +1,4 @@
+host: 196.44.160.4 (la de tanzania, casi llegando, ultimo host que responde)
+estimated rtt:  476.985776871
+p: 0.199
+mathis throughput:  6.86152876718

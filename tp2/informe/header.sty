@@ -1,0 +1,16 @@
+% "hack" to place figures in subsection
+\usepackage{placeins}
+\let\Oldsection\section
+\renewcommand{\section}{\FloatBarrier\Oldsection}
+\let\Oldsubsection\subsection
+\renewcommand{\subsection}{\FloatBarrier\Oldsubsection}
+\let\Oldsubsubsection\subsubsection
+\renewcommand{\subsubsection}{\FloatBarrier\Oldsubsubsection}
+
+% specialize \ref command
+\newcommand{\eq}[1]{\textit{Ecuación \eqref{eq:#1}}}
+\newcommand{\fref}[1]{\textit{Función \eqref{func:#1}}}
+\newcommand{\alg}[1]{\textit{Algoritmo \ref{alg:#1}}}
+\newcommand{\fig}[1]{\textbf{\textit{Figura \ref{fig:#1}}}}
+\newcommand{\bib}[1]{\cite{bib:#1}}
+\newcommand{\bibext}[2]{\cite[#2]{#1}}
